@@ -6,5 +6,5 @@ A simple notes-keeping website built with React.js and Bootstrap CSS. It allows 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/notes-keeping-website.git
+   git clone https://github.com/NikhilAgrawal1014/notes-keeping-website.git
    cd notes-keeping-website
